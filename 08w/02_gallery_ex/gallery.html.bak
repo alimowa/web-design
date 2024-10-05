@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Породы собак</title>
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+<div class="content">
+  <h1>Породы собак с фотографиями и описанием </h1>
+  <p class="intro"><strong>Dogs.com</strong></p>
+  <div class="gallery">
+    <figure>
+       <img src="../images/images.jpg" alt="Бигль" width="500" height="500">
+      <figcaption>Рисунок 1: Бигль — порода гончих охотничьих собак, выведенная в Великобритании.</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/nem.jpg" alt="Немецкая овчарка" width="500" height="500">
+      <figcaption>Рисунок 2: Немецкая овчарка — порода собак, изначально использовалась в качестве пастушьей и служебно-разыскной собаки.</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/buldok.jpg" alt="Французский бульдог" width="500" height="500">
+      <figcaption>Рисунок 3: Французский бульдог – одна из самых популярных пород собак. Их предками были отважные бойцовые и травильные псы. </figcaption>
+    </figure>
+    <figure>
+       <img src="../images/alamut.jpg" alt="Аляскинский маламут" width="500" height="500">
+      <figcaption>Рисунок 4: Аля́скинский маламу́т — порода ездовых собак аборигенного типа, предназначенная для работы в упряжке, одна из древнейших пород собак. </figcaption>
+    </figure>
+    <figure>
+       <img src="../images/pudel.jpg" alt="Пудель" width="500" height="500">
+      <figcaption>Рисунок 5: Пу́дель — порода собак. Изначально пудель являлся рабочей собакой, в частности использовался на охоте. </figcaption>
+    </figure>
+    <figure>
+       <img src="../images/ch.jpg" alt="Чихуахуа" width="500" height="500">
+      <figcaption>Рисунок 6: Чихуа́хуа — собака-компаньон. Считается самой маленькой собакой в мире и носит имя мексиканского штата Чиуауа. </figcaption>
+    </figure>
+  </div>
+  <p class="copyright">Собственность 2015, CosmoFarmer.com </p>
+</div>
+</body>
+</html>
